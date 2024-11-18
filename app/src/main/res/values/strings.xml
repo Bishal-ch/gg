@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bcal">BMI Calculator</string>
+    <string name="height">Enter Height(M)</string>
+    <string name="weight">Enter Weight(KG)</string>
+    <string name="enter">Enter</string>
+    <string name="r">Result !</string>
+
+</resources>
